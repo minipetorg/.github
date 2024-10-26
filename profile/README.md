@@ -22,7 +22,7 @@
 >- Backend: FastAPI (Python) - for secure, high-performance API development.
 >- Mobile App: Flutter (or React Native) - for a unified, native experience across iOS and Android.
 >- Web App: React (or another frontend framework) - for a modern, responsive web experience.
-Database: PostgreSQL or MongoDB (based on requirements).
+>- Database: PostgreSQL or MongoDB (based on requirements).
 
 ### Developers
 >1. Sithum Sandaruwan
